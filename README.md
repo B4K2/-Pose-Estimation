@@ -7,7 +7,12 @@
 
 ## Demo Output
 
-https://github.com/B4K2/-Pose-Estimation/raw/main/video/output/output_overlay.mp4
+**Pose Estimation + Shot Classification Overlay**
+
+![Cricket Pose Demo](assets/demo.gif)
+
+Full-resolution video:  
+[Download MP4](video/output/output_overlay.mp4)
 
 ## Project Overview
 
